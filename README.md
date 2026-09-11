@@ -11,7 +11,7 @@
 
 ### `Mugia Nurul Matin` · Software Engineer/Tech Lead · Certified Japanese (JLPT N2) & English (TOEIC&TOEFL) Languages · Indonesian 🌋
 
-*8+ years of experience. 6+ Years in Fintech and Banking. unicorns, DeFi smart contracts, IoT security, led team of 12-engineers.*
+*8+ years of experience. 7+ Years in Fintech and Banking. unicorns, DeFi smart contracts, IoT security, led team of 12-engineers.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mugia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mugia)
 [![Email](https://img.shields.io/badge/Email-seemugia1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seemugia1@gmail.com)
