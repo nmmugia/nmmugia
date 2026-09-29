@@ -15,7 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mugia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mugia)
 [![Email](https://img.shields.io/badge/Email-seemugia1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seemugia1@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-Book%20Site-B8860B?style=flat-square&logo=bookstack&logoColor=white)](https://mugia.space)
 
 </div>
 
